@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">kotlin!</string>
+    <string name="value">Значение: 0</string>
+    <string name="go_back">Go back</string>
+    <string name="text">Text:</string>
+    <string name="go">GO</string>
+    <string name="texting">Вводите:</string>
+    <string name="warning">Данное поле не может быть пустым</string>
+    <!--HomeFragment-->
+
+</resources>
